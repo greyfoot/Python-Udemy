@@ -1,0 +1,2 @@
+This app is a simple quiz app. All the questions to be asked in the quiz are added to the questions.txt file. On running the file, app shows the question and waits for the user to provide the answer.
+The answer that user provided is matched against the answer present in the questions.txt file. At the end total correct answers provided by the user is added as a result against total questions to the results.txt file.
